@@ -1,7 +1,7 @@
 <!--
  * @Date: 2020-09-10 11:36:33
  * @LastEditors: OBKoro1
- * @LastEditTime: 2020-09-10 20:43:51
+ * @LastEditTime: 2020-09-11 12:52:33
  * @FilePath: \components\src\App.vue
 -->
 <template>
@@ -9,7 +9,7 @@
     <div class="bg">
       <div class="container">
         <div class="row">
-          <audio-plugin class="col-md-6 col-md-offset-3"></audio-plugin>
+          <audio-plugin class="col-md-6 col-md-offset-4"></audio-plugin>
         </div>
       </div>
     </div>
